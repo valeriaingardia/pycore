@@ -1,4 +1,4 @@
-print ("Benvenuto al gioco del quiz MADRE SUPERIORE!")
+print ("Benvenuto al gioco del quiz!")
 
 playing = input ("Vuoi giocare?" )
 print (playing)
