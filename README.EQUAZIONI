@@ -1,6 +1,6 @@
 File equazioni.py:
 Una semplice dimostrazione di come sfruttare il ciclo while, con le strutture condizionali if, else ed elif.
-Per prima cosa si importa la libreria math, si stampa a schermo con la funzione print il titolo dell'esercizio e si invoca un'altra funzione printa per scrivere la "forma" dell'equazione di secondo grado: 
+Per prima cosa si importa la libreria math, si stampa a schermo con la funzione print il titolo dell'esercizio e si invoca un'altra funzione print per scrivere la "forma" dell'equazione di secondo grado: 
 
 print ("Sia data l'equazione di secondo grado nella forma ax^2 + bx + c = 0")
 
